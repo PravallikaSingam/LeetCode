@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PravallikaSingam/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/PravallikaSingam/LeetCode/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/PravallikaSingam/LeetCode/tree/master/0018-4sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PravallikaSingam/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/PravallikaSingam/LeetCode/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/PravallikaSingam/LeetCode/tree/master/0018-4sum) |
 ## String
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PravallikaSingam/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/PravallikaSingam/LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/PravallikaSingam/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/PravallikaSingam/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/PravallikaSingam/LeetCode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/PravallikaSingam/LeetCode/tree/master/0059-spiral-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,8 +187,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/PravallikaSingam/LeetCode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/PravallikaSingam/LeetCode/tree/master/0059-spiral-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/PravallikaSingam/LeetCode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/PravallikaSingam/LeetCode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->

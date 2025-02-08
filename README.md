@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PravallikaSingam/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/PravallikaSingam/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/PravallikaSingam/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/PravallikaSingam/LeetCode/tree/master/0072-edit-distance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/PravallikaSingam/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/PravallikaSingam/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/PravallikaSingam/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/PravallikaSingam/LeetCode/tree/master/0072-edit-distance) |
 ## Math
 |  |
 | ------- |

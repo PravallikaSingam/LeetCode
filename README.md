@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/PravallikaSingam/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/PravallikaSingam/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/PravallikaSingam/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/PravallikaSingam/LeetCode/tree/master/0071-simplify-path) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PravallikaSingam/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PravallikaSingam/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PravallikaSingam/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/PravallikaSingam/LeetCode/tree/master/0071-simplify-path) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

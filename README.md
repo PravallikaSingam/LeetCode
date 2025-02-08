@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/PravallikaSingam/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/PravallikaSingam/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/PravallikaSingam/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/PravallikaSingam/LeetCode/tree/master/0068-text-justification) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PravallikaSingam/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/PravallikaSingam/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/PravallikaSingam/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/PravallikaSingam/LeetCode/tree/master/0068-text-justification) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/PravallikaSingam/LeetCode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/PravallikaSingam/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/PravallikaSingam/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/PravallikaSingam/LeetCode/tree/master/0068-text-justification) |
 ## Matrix
 |  |
 | ------- |

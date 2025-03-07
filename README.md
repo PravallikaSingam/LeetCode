@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/PravallikaSingam/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/PravallikaSingam/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/PravallikaSingam/LeetCode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/PravallikaSingam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/PravallikaSingam/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/PravallikaSingam/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/PravallikaSingam/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/PravallikaSingam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Trie
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PravallikaSingam/LeetCode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/PravallikaSingam/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/PravallikaSingam/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/PravallikaSingam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Combinatorics
 |  |
 | ------- |
